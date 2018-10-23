@@ -7,14 +7,14 @@ flower_prediction
 # requirements:
 ## 1.predicting the output given on the basis of given input
 ### 2.depending on the given input taking which type of activation function should be used
-### finally calculating the diffrence between exact ouput and predicted output and try to minimise that cost as close as possible
-## working strategy behind
+### finally calculating the difference between exact ouput and predicted output and try to minimise that cost as much as possible
+## working strategy behind it
 <img src="https://user-images.githubusercontent.com/39950187/44627746-c0af6c80-a950-11e8-9003-347ec695f372.png">
    
 # learning step 
    <img src="https://user-images.githubusercontent.com/39950187/44627675-53e7a280-a94f-11e8-8676-fd38ac30964f.png">
    
-### finally output by the computer system wheter flower is red or blue
+### finally output by the computer system whether flower is red or blue
  
  
 # @authors quote"
